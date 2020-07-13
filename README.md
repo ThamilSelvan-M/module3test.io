@@ -1,2 +1,2 @@
-# module3test.io
+# module3test.github.io
 test 3
